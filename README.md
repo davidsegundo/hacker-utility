@@ -1,4 +1,4 @@
-Hack Utility
+Hacker Utility
 ============
 
 Hacker Utility es una herramienta diseñada para pentesters que trae consigo algunas funcionalidades para la audirtoria web.
